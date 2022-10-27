@@ -8,7 +8,7 @@
  **/
 
 public class Ejercicio3 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String[] cards = { "2", "3", "4", "5", "6", "7", "Sota", "Caballo", "Rey", "As" };
         String[] suits = { "oros", "espadas", "copas", "bastos" };
 

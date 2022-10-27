@@ -13,7 +13,7 @@ public class Ejercicio5 {
         return randomNum;
     }
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int max = 199;
         int min = 100;
         int maxRandom = 100;

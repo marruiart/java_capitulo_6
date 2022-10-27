@@ -6,7 +6,7 @@
  **/
 
 public class Ejercicio4 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int random;
         for (int i = 0; i < 20; i++) {
             random = (int) (Math.random() * 11);

@@ -10,7 +10,7 @@
  **/
 
 public class Ejercicio2 {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         String[] cards = { "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "As" };
         String[] suits = { "picas", "corazones", "diamantes", "tréboles" };
 

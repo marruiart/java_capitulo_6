@@ -8,7 +8,7 @@
 
 public class Ejercicio5 {
 
-    public static int getRandomInt(int max, int min) {
+    public static int getRandomInt(int min, int max) {
         int randomNum = min + (int) (Math.random() * ((max - min) + 1));
         return randomNum;
     }
@@ -20,7 +20,7 @@ public class Ejercicio5 {
         int minRandom = 199;
 
         for (int i = 0; i < 50; i++) {
-            int randomNum = getRandomInt(max, min);
+            int randomNum = getRandomInt(min, max);
             if (i == 49)
                 System.out.printf("%d", randomNum);
             else

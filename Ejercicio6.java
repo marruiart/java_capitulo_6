@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 public class Ejercicio6 {
 
-    public static int getRandomInt(int max, int min) {
+    public static int getRandomInt(int min, int max) {
         int randomNum = min + (int) (Math.random() * ((max - min) + 1));
         return randomNum;
     }
@@ -21,7 +21,7 @@ public class Ejercicio6 {
         Scanner sc = new Scanner(System.in);
         int max = 100;
         int min = 0;
-        int randomNum = getRandomInt(max, min);
+        int randomNum = getRandomInt(min, max);
         int oportunities = 5;
         int num;
         String prompt = "Introduce un número";

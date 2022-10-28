@@ -1,6 +1,6 @@
 # java_capitulo_6
 
-This repository contains the solved exercises proposed in chapter five of the book "Aprende Java con Ejercicios" from the author [Luis José Sánchez](https://github.com/LuisJoseSanchez).
+This repository contains the solved exercises proposed in chapter six of the book "Aprende Java con Ejercicios" from the author [Luis José Sánchez](https://github.com/LuisJoseSanchez).
 
 ![Aprende Java con Ejercicios](https://github.com/LuisJoseSanchez/programacion/blob/master/aprendejava200.jpg)
 
